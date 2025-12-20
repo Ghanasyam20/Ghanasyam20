@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghanasyam20
 - 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning Full Stack Programming
+- 🌱 I’m currently a Masters Student in CUSAT
 - 📫 How to reach me gindulal28@gmail.com
 
 <!---
