@@ -4,18 +4,13 @@
 
 # Ghanasyam Indulal
 
-```txt
-Full-Stack Developer • AI Enthusiast • Master's Student at CUSAT
-```
+<p align="center">
+  <strong>Full-Stack Developer • AI Enthusiast • Master's Student at CUSAT</strong>
+</p>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=700&lines=Building+Practical+Software+and+AI+Solutions;Focused+on+Web+Systems+%2B+Machine+Learning;Always+Learning+•+Always+Building" />
-
-<br/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ghanasyam20&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/Ghanasyam20?style=for-the-badge&color=0e75b6&labelColor=111827" />
-</p>
 
 </div>
 
@@ -58,7 +53,7 @@ class Ghanasyam:
 ## Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php,html,css&theme=dark" />
 </p>
 
 ---
@@ -66,7 +61,7 @@ class Ghanasyam:
 ## Frameworks & Backend Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=flask,django,nodejs,dotnet,bootstrap,tailwind&theme=dark" />
 </p>
 
 ---
@@ -74,7 +69,7 @@ class Ghanasyam:
 ## Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
 </p>
 
 ---
@@ -82,13 +77,11 @@ class Ghanasyam:
 ## AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
 </p>
 
 ---
@@ -96,7 +89,7 @@ class Ghanasyam:
 ## Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,anaconda&theme=dark" />
 </p>
 
 ---
@@ -104,13 +97,7 @@ class Ghanasyam:
 ## Creative & Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ae&theme=dark" />
 </p>
 
 ---
@@ -182,19 +169,19 @@ Implemented automated attendance tracking with live facial recognition, analytic
 <div align="center">
 
 <a href="mailto:gindulal28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 
 <a href="https://linkedin.com/in/Ghanasyam-Indulal-35811b311">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 
 <a href="https://instagram.com/ghansyxm">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
 </a>
 
 <a href="https://github.com/Ghanasyam20">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
 </div>
