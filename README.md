@@ -8,9 +8,7 @@
 
 <br>
 
-<img 
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=6AA6F8&center=true&vCenter=true&width=850&height=45&lines=Backend+Systems+%7C+AI+Workflows+%7C+Scalable+Applications;Building+Projects+That+Solve+Real+Problems;Training+Models+and+Debugging+Reality;Clean+Code+•+Practical+Design+•+Continuous+Learning&background=00000000" 
-/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=16\&duration=3500\&pause=1200\&color=6AA6F8\&center=true\&vCenter=true\&width=850\&height=45\&lines=Backend+Systems+%7C+AI+Workflows+%7C+Scalable+Applications;Building+Projects+That+Solve+Real+Problems;Training+Models+and+Debugging+Reality;Clean+Code+•+Practical+Design+•+Continuous+Learning)](https://git.io/typing-svg)
 
 </div>
 
