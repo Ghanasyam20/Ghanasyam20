@@ -4,13 +4,15 @@
 
 # Ghanasyam Indulal
 
-<p align="center">
-  <strong>Full-Stack Developer • AI Enthusiast • Master's Student at CUSAT</strong>
-</p>
+### Full-Stack Developer • AI Enthusiast • Master's Student at CUSAT
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&width=700&lines=Building+Practical+Software+and+AI+Solutions;Focused+on+Web+Systems+%2B+Machine+Learning;Always+Learning+•+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Practical+Software+and+AI+Solutions;Designing+Web+Systems+That+Scale;Training+Models+and+Debugging+Reality;Always+Learning+•+Always+Building" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="320" />
 
 </div>
 
@@ -41,8 +43,8 @@ class Ghanasyam:
 ```
 
 * 🎓 Master's Student at **CUSAT**
-* 💻 Focused on full-stack development and AI-powered applications
-* 🌱 Exploring backend engineering, ML workflows, and scalable systems
+* 💻 Focused on full-stack development and AI-powered systems
+* 🌱 Exploring backend engineering, ML workflows, and scalable architecture
 * 🛠️ Passionate about building practical products with real-world impact
 * 📍 Kerala, India
 
@@ -77,11 +79,7 @@ class Ghanasyam:
 ## AI / Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 </p>
 
 ---
