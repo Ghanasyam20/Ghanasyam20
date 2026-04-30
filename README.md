@@ -16,61 +16,68 @@
 
 ---
 
-### I build things that sit at the intersection of web and intelligence.
+## About
 
-I'm a Masters student at CUSAT with a habit of picking up problems that are more interesting than they first appear — a real estate market clogged with paperwork, classrooms still doing roll call by hand, wine quality left to gut instinct. Each of those became a project. Each project shipped something real.
+M.Tech student at CUSAT building things at the intersection of web and AI. I've shipped real-estate platforms, face recognition attendance systems, and ML-based quality prediction tools — not just as coursework, but as working software.
 
-My internship at **Edufyi** gave me a front-row seat to applied ML in production — not just notebooks, but systems that run. I placed **Runner-Up at STACC: BUILDATHON**, which mostly taught me how much you can build when the clock is against you.
-
-I work across the full stack — PHP, Python, Django on the backend; MySQL and MongoDB for persistence; scikit-learn, TensorFlow, and OpenCV when the problem calls for it. I also do motion design and 3D work in Blender and the Adobe suite, which sounds unrelated until you're the one who has to present the thing you built.
+Interned at **Edufyi** in applied ML. Placed **Runner-Up at STACC: BUILDATHON**. Currently open to full-stack and AI/ML roles.
 
 ---
 
-## Work
+## Experience & Recognition
 
-**Mishler Wine House** &nbsp;·&nbsp; *ML · Python · scikit-learn · PHP · MySQL*
-
-Wine quality is traditionally subjective. This project makes it measurable. I trained supervised learning models on open-source physicochemical datasets — acidity, residual sugar, pH, sulphates — to predict quality scores with quantifiable accuracy. The harder part was feature selection: figuring out which properties actually move the needle versus which ones are noise.
-
----
-
-**Mishler Homes Ltd.** &nbsp;·&nbsp; *PHP · MySQL · Full-Stack*
-
-Real estate transactions carry a lot of dead weight — middlemen, paperwork, redundant steps. I built a platform that connects buyers, sellers, and renters directly to real estate companies, cutting that friction down. The goal was never to build another listing site; it was to make the transaction itself cheaper and faster for everyone in it.
+| | |
+|---|---|
+| 🏢 **AI/ML Intern** | Edufyi — applied machine learning in a production environment |
+| 🥈 **Runner-Up** | STACC: BUILDATHON — competitive hackathon |
+| 🎓 **M.Tech** | CUSAT, Kochi, Kerala |
 
 ---
 
-**AttendX** &nbsp;·&nbsp; *Flask · OpenCV · face_recognition · SQLite*
+## Projects
 
-Attendance is a solved problem that most institutions still solve badly. AttendX handles it with live face recognition — students register once via webcam, and the system marks them automatically during sessions. The admin side ships with weekly analytics, eligibility tracking, Excel exports, and a broadcast display for classrooms. It runs on Flask with SQLite, and the recognition pipeline is fast enough to be practical in a real setting.
+### 🍷 Mishler Wine House
+**Problem:** Wine quality assessment is subjective and inconsistent.  
+**Solution:** ML pipeline trained on physicochemical data (acidity, pH, sugar) to predict quality scores objectively.  
+`Python` `scikit-learn` `Pandas` `PHP` `MySQL`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Ghanasyam20"><img src="https://img.shields.io/badge/view%20repo-0f172a?style=flat-square&logo=github&logoColor=38bdf8" /></a>
+---
+
+### 🏠 Mishler Homes Ltd.
+**Problem:** Real estate transactions are paperwork-heavy and inefficient.  
+**Solution:** A direct-connect platform for buyers, sellers, and renters — cutting middlemen and reducing transaction cost.  
+`PHP` `MySQL` `HTML/CSS/JS`
+
+---
+
+### 📋 AttendX — AI Attendance System
+**Problem:** Manual attendance in classrooms is slow and error-prone.  
+**Solution:** Live face recognition that auto-marks attendance. Admin dashboard with analytics, eligibility alerts, and Excel export.  
+`Python` `Flask` `OpenCV` `face_recognition` `SQLite`  
+[![Repo](https://img.shields.io/badge/view%20repo-0f172a?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/Ghanasyam20)
 
 ---
 
 ## Stack
 
 ```
-Languages       Python  ·  PHP  ·  JavaScript  ·  Java  ·  C  ·  C++
-Web             Django  ·  Bootstrap  ·  TailwindCSS  ·  Node.js  ·  .NET
-Data / ML       scikit-learn  ·  TensorFlow  ·  Pandas  ·  NumPy  ·  Matplotlib
-Vision          OpenCV  ·  face_recognition
-Databases       MySQL  ·  MongoDB
-Tooling         Git  ·  GitHub  ·  Vercel  ·  Anaconda  ·  Figma  ·  VS Code
-Creative        Blender  ·  Photoshop  ·  Premiere Pro  ·  After Effects  ·  Lightroom
+Languages    Python · PHP · JavaScript · Java · C · C++
+Web          Django · Bootstrap · TailwindCSS · Node.js · .NET
+ML / Data    scikit-learn · TensorFlow · Pandas · NumPy · OpenCV
+Databases    MySQL · MongoDB
+Tooling      Git · GitHub · Vercel · Figma · VS Code
+Creative     Blender · Photoshop · Premiere Pro · After Effects
 ```
 
 ---
 
-## Numbers
+## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ghanasyam20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasyam20&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
-</div>
-
-<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Ghanasyam20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanasyam20&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
+  <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ghanasyam20&theme=tokyonight&hide_border=true" />
 </div>
 
