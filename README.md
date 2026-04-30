@@ -65,12 +65,6 @@ I've spent time on both sides of the stack: writing backends in PHP, Python, and
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22d3ee?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Dev%20·%20AI%2FML%20·%20Data%20Science-0891b2?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Education-M.Tech%20%40%20CUSAT-06b6d4?style=flat-square&labelColor=0f172a" />
-</p>
-
 ---
 
 ## `SKILLS`
