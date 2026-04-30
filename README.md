@@ -8,11 +8,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Practical+Software+and+AI+Solutions;Designing+Web+Systems+That+Scale;Training+Models+and+Debugging+Reality;Always+Learning+•+Always+Building" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="320" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=6AA6F8&center=true&vCenter=true&width=850&height=45&lines=Backend+Systems+%7C+AI+Workflows+%7C+Scalable+Applications;Building+Projects+That+Solve+Real+Problems;Training+Models+and+Debugging+Reality;Clean+Code+•+Practical+Design+•+Continuous+Learning&background=00000000" 
+/>
 
 </div>
 
