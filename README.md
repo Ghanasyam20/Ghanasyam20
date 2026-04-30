@@ -1,15 +1,5 @@
 <!-- HEADER -->
 
-<!-- Replace THIS -->
-
-# Ghanasyam Indulal
-
-<!-- WITH THIS -->
-
-<img 
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=4000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Ghanasyam+Indulal" 
-/>
-
 <div align="center">
 
 # Ghanasyam Indulal
