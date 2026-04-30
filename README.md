@@ -32,7 +32,7 @@ profile = {
     "name"          : "Ghanasyam Indulal",
     "username"      : "Ghanasyam20",
     "role"          : "Masters Student · Full-Stack Developer · AI/ML Enthusiast",
-    "education"     : "M.Tech @ CUSAT (Cochin University of Science and Technology)",
+    "education"     : "M.Sc CS @ CUSAT (Cochin University of Science and Technology)",
     "location"      : "Kerala, India 🇮🇳",
     "domains"       : ["Full-Stack Web Development", "Machine Learning", "Computer Vision", "Data Science"],
     "experience"    : ["AI/ML Intern @ Edufyi"],
@@ -152,7 +152,7 @@ Built a complete web-based attendance system using Flask and OpenCV. Students ar
 ## `EXPERIENCE & ACHIEVEMENTS`
 
 ```
-🏢  AI/ML Intern         │  Edufyi                  │  Applied ML in a real product environment
+🏢  AI/ML Intern         │  Edufyi                   │  Applied ML in a real product environment
 🥈  Runner-Up            │  STACC: BUILDATHON        │  Competitive hackathon — built fast, built well
 🎓  Masters Student      │  CUSAT, Kerala            │  Deepening expertise in CS & engineering
 ```
