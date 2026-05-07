@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# Ghanasyam Indulal
+<img 
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=4000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Ghanasyam+Indulal" 
+/>
 
 ### Full-Stack Developer • AI Enthusiast • Master's Student at CUSAT
 
@@ -43,6 +45,22 @@ class Ghanasyam:
 * 🌱 Exploring backend engineering, ML workflows, and scalable architecture
 * 🛠️ Passionate about building practical products with real-world impact
 * 📍 Kerala, India
+
+---
+
+# Portfolio
+
+<div align="center">
+
+<a href="https://portfoliozz-two.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
+<br><br>
+
+> A curated showcase of my projects, development work, technical interests, and creative experiments.
+
+</div>
 
 ---
 
