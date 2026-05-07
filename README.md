@@ -46,6 +46,21 @@ class Ghanasyam:
 
 ---
 
+# Portfolio
+
+<div align="center">
+
+<a href="https://portfoliozz-two.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
+<br><br>
+
+> A curated showcase of my projects, development work, technical interests, and creative experiments.
+
+</div>
+
+---
 # Tech Stack
 
 ## Programming Languages
